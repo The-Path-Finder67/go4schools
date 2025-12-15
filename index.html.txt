@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Go4Schools</title>
+</head>
+<body>
+  <h1>Go4Schools 😎</h1>
+  <p>Site is working.</p>
+</body>
+</html>
