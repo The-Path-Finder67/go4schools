@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Go4Schools</title>
@@ -6,5 +5,12 @@
 <body>
   <h1>Go4Schools 😎</h1>
   <p>Site is working.</p>
+
+  <h2>Games</h2>
+  <ul>
+    <li><a href="https://sites.google.com/view/classroom6x/car-king-arena-2" target="_blank">Car King Arena 2</a></li>
+    <li><a href="https://sites.google.com/view/classroom6x/1v1-lol" target="_blank">1v1.lol</a></li>
+    <li><a href="https://sites.google.com/view/classroom6x/polytrack" target="_blank">Polytrack</a></li>
+  </ul>
 </body>
 </html>
